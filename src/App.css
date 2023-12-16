@@ -1,0 +1,65 @@
+.App{
+  
+  display: flex;
+  flex-direction: column;
+  
+}
+.heading{
+  
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.pdf{
+  
+  
+  margin-right: 50px;
+}
+.cont{
+  width: 3000px;
+}
+/* App.css (or any other stylesheet you are using) */
+body {
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  
+  padding: 90px;
+  overflow-y: scroll;
+  font-family: Arial, sans-serif;
+  
+  
+  
+  
+  
+  /* Set background color to white */
+}
+
+.resPage {
+  padding-top: 30px;
+}
+.form-container {
+  height: 1000px;
+}
+button {
+      background-color: #4caf50;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 10px;
+}
+input {
+  border-radius: 5px;
+  height: 20px;
+  margin-top: 5px ;
+}
+textarea {
+    border-radius: 5px;
+      height: 20px;
+      margin-top: 5px;
+}
